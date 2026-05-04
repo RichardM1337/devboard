@@ -7,7 +7,7 @@ This was probably one of the hardest projects I have done ever. The wiring made 
 The devboard PCB was made entirely on KiCAD
 
 - Schematic
-- <img width="787" height="554" alt="Schematic" src="https://github.com/user-attachments/assets/0b356c90-f9d5-48e5-b069-af2659ea4365" />
+- <img width="787" height="554" alt="Schematic" src="https://raw.githubusercontent.com/RichardM1337/devboard/refs/heads/main/PCB/Pictures/Schematic.png" />
 - PCB Design
 - <img width="883" height="613" alt="PCB Design" src="https://github.com/user-attachments/assets/aa6868da-efa4-4c9e-a910-d6aa5f6ecfcf" />
 
