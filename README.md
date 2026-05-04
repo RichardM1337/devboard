@@ -9,15 +9,15 @@ The devboard PCB was made entirely on KiCAD
 - Schematic
 - <img width="787" height="554" alt="Schematic" src="https://raw.githubusercontent.com/RichardM1337/devboard/refs/heads/main/PCB/Pictures/Schematic.png" />
 - PCB Design
-- <img width="883" height="613" alt="PCB Design" src="https://github.com/user-attachments/assets/aa6868da-efa4-4c9e-a910-d6aa5f6ecfcf" />
+- <img width="883" height="613" alt="PCB Design" src="https://raw.githubusercontent.com/RichardM1337/devboard/refs/heads/main/PCB/Pictures/PCB%20Design.png" />
 
 # 3D Model
 This 3d model of the devboard was made within the 3d viewer in KiCAD
 
 - Front
-- <img width="836" height="496" alt="PCB Front" src="https://github.com/user-attachments/assets/e5436b6e-e93c-400e-a2ea-5213e478f149" />
+- <img width="836" height="496" alt="PCB Front" src="https://raw.githubusercontent.com/RichardM1337/devboard/refs/heads/main/PCB/Pictures/PCB%20Front.png" />
 - Back
-- <img width="836" height="496" alt="PCB Back" src="https://github.com/user-attachments/assets/f2b3533d-9fbf-486e-acbf-e3fa9f8d6796" />
+- <img width="836" height="496" alt="PCB Back" src="https://raw.githubusercontent.com/RichardM1337/devboard/refs/heads/main/PCB/Pictures/PCB%20Back.png" />
 
 
 
